@@ -1,4 +1,4 @@
-FROM php:7.0
+FROM php:8.2-apache
 MAINTAINER Alin Alexandru <alin.alexandru@innobyte.com>
 
 RUN apt-get update \
